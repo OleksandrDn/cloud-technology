@@ -1,0 +1,5 @@
+subscription_id    = "5965002d-bf76-4c0d-b7e8-9a0b08444687"
+admin_password     = "P@ssw0rd123!@#456"
+vm_size            = "Standard_D2s_v3"  
+vmss_sku           = "Standard_D2s_v3"  
+location           = "centralus"       
